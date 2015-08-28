@@ -1,19 +1,24 @@
 {
-  "name": "cz-conventional-changelog",
-  "version": "1.1.0",
+  "name": "rb-conventional-changelog",
+  "version": "1.1.1",
   "description": "Commitizen adapter following the conventional-changelog format.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/commitizen/cz-conventional-changelog",
+  "author": {
+    "name": "Rafael Belliard",
+    "email": "belliard@gmail.com"
+  },
+  "homepage": "https://github.com/rebelliard/rb-conventional-changelog",
   "repository": {
     "type": "git",
-    "url": "https://github.com/commitizen/cz-conventional-changelog.git"
+    "url": "git@github.com:rebelliard/rb-conventional-changelog.git"
   },
-  "author": "Jim Cummins <jimthedev@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "word-wrap": "^1.0.3"
-  }
+  },
+  "directories": {},
+  "readme": "ERROR: No README data found!"
 }
