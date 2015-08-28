@@ -4,8 +4,24 @@
 
 ## Setup
 
+Install commitizen
+
+```
+npm install -g commitizen
+```
+
+Install the `rb-conventional-changelog` package.
+
 ```
 npm install --save-dev rb-conventional-changelog
+```
+
+Create a `.cz.json` file with the following content:
+
+```
+{
+  "path": "node_modules/rb-conventional-changelog/"
+}
 ```
 
 ## Usage
