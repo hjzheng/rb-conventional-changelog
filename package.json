@@ -19,6 +19,5 @@
   "dependencies": {
     "word-wrap": "^1.0.3"
   },
-  "directories": {},
-  "readme": "README.md"
+  "directories": {}
 }
