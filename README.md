@@ -2,6 +2,8 @@
 
 # rb-conventional-changelog
 
+![git cz](http://i.imgur.com/D6lFxHQ.gif)
+
 ## Setup
 
 Install commitizen
@@ -29,8 +31,6 @@ Create a `.cz.json` file with the following content:
 ```
 git cz
 ```
-
-![git cz](http://i.imgur.com/D6lFxHQ.gif)
 
 #### Examples
 
