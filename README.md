@@ -2,6 +2,12 @@
 
 # rb-conventional-changelog
 
+## Setup
+
+```
+npm install --save-dev rb-conventional-changelog
+```
+
 ## Usage
 
 ```
